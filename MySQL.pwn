@@ -4,10 +4,10 @@
 /*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
 #define FolderPlayer "Database/%s.txt"
  
-#define MYSQL_DB     "San_Andreas"    
-#define MYSQL_USER   "root"          
-#define MYSQL_PASS   "Atena1996" 
-#define MYSQL_HOST   "127.0.0.1"  
+#define MYSQL_DB     "Your_Database"    
+#define MYSQL_USER   "Name"          
+#define MYSQL_PASS   "Pass" 
+#define MYSQL_HOST   "IP"  
 
 #define D_REG   0
 #define D_LOG   1
