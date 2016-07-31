@@ -177,7 +177,7 @@ public
         PosX           [playerid] = cache_get_field_content_float(0, "PosX"  );
         PosY           [playerid] = cache_get_field_content_float(0, "PosY"  );
         PosZ           [playerid] = cache_get_field_content_float(0, "PosZ"  ); 
-        PosR           [playerid] = cache_get_field_content_float(0, "PosZ"  ); 
+        PosR           [playerid] = cache_get_field_content_float(0, "PosR"  ); 
         return true; 
     }
 /*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/  
