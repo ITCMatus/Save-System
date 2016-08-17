@@ -2,8 +2,6 @@
 #include <a_samp>                           // https://www.sa-mp.com/
 #include <a_mysql>                          // http://forum.sa-mp.com/showthread.php?t=56564
 /*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
-#define FolderPlayer "Database/%s.txt"
- 
 #define MYSQL_DB     "Your_Database"    
 #define MYSQL_USER   "Name"          
 #define MYSQL_PASS   "Pass" 
